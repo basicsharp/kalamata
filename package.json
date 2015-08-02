@@ -19,7 +19,7 @@
   ],
   "peerDependencies": {
     "express": "^4.11.2",
-    "bookshelf": "^0.7.7"
+    "bookshelf": "^0.8.1",
   },
   "devDependencies": {
     "grunt": "0.4.5",
